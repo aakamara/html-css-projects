@@ -32,7 +32,7 @@ body{
         border: 1px solid #4d90fe;
     }
 
-    .btnContainer{
+    .Bcontainer{
         text-align: center;
         margin: 0 auto;
         width: 270px;
@@ -87,7 +87,7 @@ body{
         margin-right: 15px;  
     }  
     
-    .firstbtn {  
+    .firstsbuttons {  
         margin-top: 4.5px;  
     }
     
